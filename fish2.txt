@@ -9,3 +9,4 @@ Date,Species,Count
 2013-01-07,squid,2
 2013-01-08,cod,0
 2013-01-21,jellyfish,2
+2014-01-09,shark, 2
